@@ -67,7 +67,7 @@ The raw data from the human resource function is difficult to interpret without 
 
 **Reach out to Me**
 
-LinkedIn: https://www.linkedin.com/in/karandukare/
-GitHub: https://github.com/karandukare
-Email: karandukare23@gamil.com
-Portfolio: https://karan-dukare-data-analys-yz7rj1t.gamma.sit
+- LinkedIn: https://www.linkedin.com/in/karandukare/
+- GitHub: https://github.com/karandukare
+- Email: karandukare23@gamil.com
+- Portfolio: https://karan-dukare-data-analys-yz7rj1t.gamma.site/ 
